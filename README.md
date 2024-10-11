@@ -63,5 +63,6 @@
   }
 ```
 ![Image alt](https://github.com/Reilna/1lab/blob/main/firstLab/image.png)
+
 запускаемый файл - main.go
 или же в терминале go run "путь до файла с расширением"
