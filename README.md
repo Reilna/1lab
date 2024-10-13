@@ -59,7 +59,7 @@ func AverageValue(a int, b int, c float64) {
 }
 
 ```
-![Image alt](https://github.com/Reilna/1lab/blob/main/firstLab/image.png)
+![Image alt](https://github.com/Reilna/1lab/blob/main/lab_1/lab1.png)
 
 запускаемый файл - main.go
 или же в терминале go run "путь до файла с расширением"
